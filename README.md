@@ -137,7 +137,7 @@ Online stores like Furlenco or Pepperfry exist too and have created a great bran
 There is a large real estate boom across the board in India. We are seeing exponential growth in residential, office space and restaurants in metros as well as Tier 2/3 cities (smaller cities). Tapping this large market by improving the design and shopping experience for buyers could add large amounts of value.
 
 
-### An improved way of designing real estate (which includes houses, restarants and offices):
+#### An improved way of designing real estate (which includes houses, restarants and offices):
 It seems almost clear that we need a better way to furnish real estate. I want to build software for interior designers through which you can design real estate using actual products from the market so that the property buyers can see exactly what they are buying, all online. It will not just be a software tool for interior designers but also an ecommerce website for all furniture / home decor markets to list their products.
 
 It will be a 3d rendering software, where you can choose every item that actually exists in markets around you.
